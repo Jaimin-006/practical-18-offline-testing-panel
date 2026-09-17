@@ -3,7 +3,7 @@ import HashApp from './components/HashApp';
 
 function App() {
   return (
-    <div className="bg-gray-100 min-h-screen p-8">
+    <div className="bg-neutral-100 min-h-screen p-8 font-sans">
       <HashApp />
     </div>
   );
